@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/files-storage-ui/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/files-storage-ui/static/js/main.fafbcafd.chunk.js",
-    "main.js.map": "/files-storage-ui/static/js/main.fafbcafd.chunk.js.map",
-    "runtime-main.js": "/files-storage-ui/static/js/runtime-main.538b6eb9.js",
-    "runtime-main.js.map": "/files-storage-ui/static/js/runtime-main.538b6eb9.js.map",
-    "static/js/2.63f2a0b2.chunk.js": "/files-storage-ui/static/js/2.63f2a0b2.chunk.js",
-    "static/js/2.63f2a0b2.chunk.js.map": "/files-storage-ui/static/js/2.63f2a0b2.chunk.js.map",
-    "static/js/3.01bcb64c.chunk.js": "/files-storage-ui/static/js/3.01bcb64c.chunk.js",
-    "static/js/3.01bcb64c.chunk.js.map": "/files-storage-ui/static/js/3.01bcb64c.chunk.js.map",
+    "main.css": "/files-storage-ui/static/css/main.615522de.chunk.css",
+    "main.js": "/files-storage-ui/static/js/main.220ac5f9.chunk.js",
+    "main.js.map": "/files-storage-ui/static/js/main.220ac5f9.chunk.js.map",
+    "runtime-main.js": "/files-storage-ui/static/js/runtime-main.7b7038a9.js",
+    "runtime-main.js.map": "/files-storage-ui/static/js/runtime-main.7b7038a9.js.map",
+    "static/js/2.33ec36f7.chunk.js": "/files-storage-ui/static/js/2.33ec36f7.chunk.js",
+    "static/js/2.33ec36f7.chunk.js.map": "/files-storage-ui/static/js/2.33ec36f7.chunk.js.map",
+    "static/js/3.4008edce.chunk.js": "/files-storage-ui/static/js/3.4008edce.chunk.js",
+    "static/js/3.4008edce.chunk.js.map": "/files-storage-ui/static/js/3.4008edce.chunk.js.map",
     "index.html": "/files-storage-ui/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/files-storage-ui/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.63f2a0b2.chunk.js.LICENSE.txt": "/files-storage-ui/static/js/2.63f2a0b2.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/files-storage-ui/static/media/logo.6ce24c58.svg"
+    "static/css/main.615522de.chunk.css.map": "/files-storage-ui/static/css/main.615522de.chunk.css.map",
+    "static/js/2.33ec36f7.chunk.js.LICENSE.txt": "/files-storage-ui/static/js/2.33ec36f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.538b6eb9.js",
-    "static/js/2.63f2a0b2.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.fafbcafd.chunk.js"
+    "static/js/runtime-main.7b7038a9.js",
+    "static/js/2.33ec36f7.chunk.js",
+    "static/css/main.615522de.chunk.css",
+    "static/js/main.220ac5f9.chunk.js"
   ]
 }
